@@ -22,7 +22,7 @@ $ pkg install git -y
 $ pkg install bash -y
 ```
 ```
-$ git clone https://github.com/NH404/Satanic-Virus
+$ git clone https://github.com/NH404/Satanic-Virus.git
 ```
 ```
 $ cd Satanic-Virus
