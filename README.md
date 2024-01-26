@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" wight="200" src="satanvirus.png" alt="logo">  
+  <img height="200" wight="200" src="satanvirus.jpg" alt="logo">  
 </p>
 
 <h1 align="center">Termux Play Virus</h1>
