@@ -22,11 +22,11 @@ $ pkg install git -y
 $ pkg install bash -y
 ```
 ```
-$ git clone https://github.com/black-demon-dr7/Play-Virus.git
+$ git clone https://github.com/NH404/Satanic-Virus
 ```
 ```
-$ cd Play-Virus
+$ cd Satanic-Virus
 ```
 ```
-$ bash demon.sh
+$ bash VirusNH.sh
 ```
